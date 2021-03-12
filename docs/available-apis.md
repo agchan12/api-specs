@@ -14,7 +14,7 @@
 
 ### REST
 
-Manage a shopper's cart and checkout and fetch order data via client-side JavaScript on BigCommerce [Stencil](https://developer.bigcommerce.com/stencil-docs/getting-started/about-stencil) powered storefronts.
+Manage a shopper's cart afdasfdsand checkout and fetch order data via client-side JavaScript on BigCommerce [Stencil](https://developer.bigcommerce.com/stencil-docs/getting-started/about-stencil) powered storefronts.
 
 [Learn more about storefront APIs](https://developer.bigcommerce.com/api-docs/storefront/overview).
 
